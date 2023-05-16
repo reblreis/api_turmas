@@ -1,7 +1,7 @@
-API_Turmas - Documentação do Projeto
+# API_Turmas - Documentação do Projeto
 Este é o README do projeto API_Turmas, um aplicativo Spring Boot para gerenciar turmas de alunos.
 
-Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 O projeto utiliza as seguintes bibliotecas:
 
 Spring Web: biblioteca para criação de APIs RESTful no Spring.
@@ -19,7 +19,7 @@ GET /api/turmas/{id}: obtém os detalhes de uma turma pelo seu ID.
 Documentação Swagger
 A API possui uma documentação Swagger para facilitar o entendimento e teste dos endpoints. Acesse a documentação através do seguinte link: Documentação Swagger
 
-Detalhes da documentação:
+## Detalhes da documentação:
 
 Título: API para controle de turmas
 Descrição: API Spring Boot com Spring Data para gerenciamento de turmas, alunos, professores e matrículas.
