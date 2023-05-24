@@ -2,7 +2,7 @@ package br.com.cotiinformatica.dtos;
 
 public class ProfessorPostDTO {
 
-	public String nome;
-	public String telefone;
+	private String nomeProfessor;
+	private String telefone;
 
 }
